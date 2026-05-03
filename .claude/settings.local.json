@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//opt/homebrew/bin/**)",
+      "Bash(brew list *)"
+    ]
+  }
+}

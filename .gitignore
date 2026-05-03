@@ -1,0 +1,17 @@
+# Secrets — never commit these
+.env
+secrets.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+
+# ChromaDB local data
+chroma/
+
+# Poetry
+poetry.lock
