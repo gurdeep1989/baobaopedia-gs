@@ -1,4 +1,9 @@
 supabase
 sentence-transformers
-huggingface_hub
+huggingface-hub
 numpy
+gradio
+PyPDF2
+chromadb
+langchain-text-splitters
+python-dotenv
